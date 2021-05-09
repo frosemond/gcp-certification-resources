@@ -1,5 +1,5 @@
 <a href="https://www.womenwhocode.com/cloud">
-  <img alt="The Journey to AWS Pro." align="center" src="assets/images/GCPLogo.png">
+  <img alt="The Journey to AWS Pro." align="left" src="assets/images/GCPLogo.png" width=150 height=150 />
 </a>
 <br><br>&nbsp;&nbsp;&nbsp;<br>
 
