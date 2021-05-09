@@ -1,4 +1,7 @@
-<a href="https://www.womenwhocode.com/cloud"><img alt="The Journey to AWS Pro." align="center" src="assets/images/GCPLogo.jpg"></a><br><br>&nbsp;&nbsp;&nbsp;<br>
+<a href="https://www.womenwhocode.com/cloud">
+  <img alt="The Journey to AWS Pro." align="center" src="assets/images/GCPLogo.png">
+</a>
+<br><br>&nbsp;&nbsp;&nbsp;<br>
 
 
 ## Welcome to GCP Associate Cloud Engineer Github Repo!  
